@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "ndless-nspire/Ndless",
+    "stargazers_count": 689,
+    "open_issues_count": 61,
+    "forks_count": 96
+  },
+  {
     "full_name": "NvChad/NvChad",
-    "stargazers_count": 15557,
-    "open_issues_count": 2,
-    "forks_count": 1007
+    "stargazers_count": 15701,
+    "open_issues_count": 1,
+    "forks_count": 1019
   },
   {
     "full_name": "keiwando/evolution",
@@ -31,9 +37,9 @@
   },
   {
     "full_name": "victornpb/undiscord",
-    "stargazers_count": 3904,
-    "open_issues_count": 14,
-    "forks_count": 695
+    "stargazers_count": 3910,
+    "open_issues_count": 16,
+    "forks_count": 696
   },
   {
     "full_name": "HorseNuggets/TerminatorPlus",
@@ -43,8 +49,8 @@
   },
   {
     "full_name": "Androz2091/discord-player",
-    "stargazers_count": 498,
+    "stargazers_count": 496,
     "open_issues_count": 14,
-    "forks_count": 179
+    "forks_count": 180
   }
 ]
