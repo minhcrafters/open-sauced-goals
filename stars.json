@@ -1,45 +1,51 @@
 [
   {
+    "full_name": "LittleMouseGames/GodotAssetLibrary",
+    "stargazers_count": 6,
+    "open_issues_count": 7,
+    "forks_count": 0
+  },
+  {
     "full_name": "fractureiser-investigation/fractureiser",
-    "stargazers_count": 629,
-    "open_issues_count": 3,
-    "forks_count": 44
+    "stargazers_count": 958,
+    "open_issues_count": 13,
+    "forks_count": 76
   },
   {
     "full_name": "xCollateral/VulkanMod",
-    "stargazers_count": 1006,
-    "open_issues_count": 94,
-    "forks_count": 75
+    "stargazers_count": 1014,
+    "open_issues_count": 90,
+    "forks_count": 77
   },
   {
     "full_name": "wgpu-mc/wgpu-mc",
-    "stargazers_count": 348,
+    "stargazers_count": 349,
     "open_issues_count": 12,
     "forks_count": 27
   },
   {
     "full_name": "ndless-nspire/Ndless",
-    "stargazers_count": 707,
+    "stargazers_count": 710,
     "open_issues_count": 61,
-    "forks_count": 98
+    "forks_count": 99
   },
   {
     "full_name": "NvChad/NvChad",
-    "stargazers_count": 17561,
-    "open_issues_count": 5,
-    "forks_count": 1241
+    "stargazers_count": 17648,
+    "open_issues_count": 2,
+    "forks_count": 1253
   },
   {
     "full_name": "keiwando/evolution",
     "stargazers_count": 312,
-    "open_issues_count": 8,
+    "open_issues_count": 7,
     "forks_count": 50
   },
   {
     "full_name": "DiscordStyles/Fluent",
     "stargazers_count": 194,
     "open_issues_count": 11,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "PlainDevelopment/discord-bot-eco",
@@ -50,25 +56,25 @@
   {
     "full_name": "hhhzzzsss/SongPlayer",
     "stargazers_count": 21,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 7
   },
   {
     "full_name": "victornpb/undiscord",
-    "stargazers_count": 4066,
+    "stargazers_count": 4077,
     "open_issues_count": 24,
     "forks_count": 707
   },
   {
     "full_name": "HorseNuggets/TerminatorPlus",
-    "stargazers_count": 115,
+    "stargazers_count": 116,
     "open_issues_count": 17,
     "forks_count": 49
   },
   {
     "full_name": "Androz2091/discord-player",
-    "stargazers_count": 521,
-    "open_issues_count": 13,
+    "stargazers_count": 523,
+    "open_issues_count": 6,
     "forks_count": 182
   }
 ]
