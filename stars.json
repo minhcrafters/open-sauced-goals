@@ -1,8 +1,8 @@
 [
   {
     "full_name": "hkrn/nanoem",
-    "stargazers_count": 240,
-    "open_issues_count": 3,
+    "stargazers_count": 241,
+    "open_issues_count": 4,
     "forks_count": 34
   },
   {
@@ -13,37 +13,37 @@
   },
   {
     "full_name": "fractureiser-investigation/fractureiser",
-    "stargazers_count": 1120,
+    "stargazers_count": 1119,
     "open_issues_count": 12,
-    "forks_count": 78
+    "forks_count": 77
   },
   {
     "full_name": "xCollateral/VulkanMod",
-    "stargazers_count": 1167,
-    "open_issues_count": 117,
-    "forks_count": 110
+    "stargazers_count": 1170,
+    "open_issues_count": 119,
+    "forks_count": 113
   },
   {
     "full_name": "wgpu-mc/wgpu-mc",
-    "stargazers_count": 410,
-    "open_issues_count": 14,
+    "stargazers_count": 413,
+    "open_issues_count": 13,
     "forks_count": 27
   },
   {
     "full_name": "ndless-nspire/Ndless",
-    "stargazers_count": 771,
+    "stargazers_count": 773,
     "open_issues_count": 63,
     "forks_count": 102
   },
   {
     "full_name": "NvChad/NvChad",
-    "stargazers_count": 20622,
+    "stargazers_count": 20680,
     "open_issues_count": 1,
-    "forks_count": 1756
+    "forks_count": 1764
   },
   {
     "full_name": "keiwando/evolution",
-    "stargazers_count": 331,
+    "stargazers_count": 332,
     "open_issues_count": 8,
     "forks_count": 55
   },
@@ -51,7 +51,7 @@
     "full_name": "DiscordStyles/Fluent",
     "stargazers_count": 242,
     "open_issues_count": 20,
-    "forks_count": 42
+    "forks_count": 41
   },
   {
     "full_name": "PlainDevelopment/discord-bot-eco",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "victornpb/undiscord",
-    "stargazers_count": 4482,
+    "stargazers_count": 4490,
     "open_issues_count": 43,
-    "forks_count": 720
+    "forks_count": 721
   },
   {
     "full_name": "HorseNuggets/TerminatorPlus",
@@ -81,6 +81,6 @@
     "full_name": "Androz2091/discord-player",
     "stargazers_count": 564,
     "open_issues_count": 23,
-    "forks_count": 195
+    "forks_count": 193
   }
 ]
